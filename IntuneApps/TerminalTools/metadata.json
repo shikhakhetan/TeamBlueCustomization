@@ -1,6 +1,6 @@
 {
-  "displayName": "PreinstallApp",
+  "displayName": "TerminalTools",
   "installExperience": "system",
   "assignmentIntent": "available",
-  "publisher": "test1018"
+  "publisher": "Contoso"
 }
